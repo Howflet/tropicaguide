@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576400976882",
+    "project_id": "tropicaguide-mad26",
+    "storage_bucket": "tropicaguide-mad26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576400976882:android:51c0c08bf05fa40a43196b",
+        "android_client_info": {
+          "package_name": "edu.gsu.cs.tropicaguide.tropicaguide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv7QnMYPf_1SSWFAouN-A3H6xxAUcqI8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
